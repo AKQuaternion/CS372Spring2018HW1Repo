@@ -14,6 +14,8 @@ int main() {
     cout << "Professor Hartman doesn't need a homework grade.\n";
     
     cout << "Hello! I'm Rachel Crosley and I would love 20/20 on this assignment" << endl;
+	unsigned long long int plzGiveMeThisGrade = 0;
+	cout << "Hi everyone! I'm Tristan Van Cise and it would be awesome if I could get a " << --plzGiveMeThisGrade << "/20 on this assignment" << endl;
     
     return 0;
 }
