@@ -15,5 +15,7 @@ int main() {
     
     cout << "Hello! I'm Rachel Crosley and I would love 20/20 on this assignment" << endl;
     
+    cout << "Cameron K. Titus here, and a 20/20 would be splendid" <<endl;
+    
     return 0;
 }
