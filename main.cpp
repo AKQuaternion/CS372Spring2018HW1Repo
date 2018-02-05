@@ -12,5 +12,6 @@ using std::endl;
 int main() {
     cout << "Hello, World!\n";
     cout << "Professor Hartman doesn't need a homework grade.\n";
+    cout << "Chris McClure deserves an A...\n";
     return 0;
 }
