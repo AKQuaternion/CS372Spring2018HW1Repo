@@ -24,5 +24,7 @@ int main() {
 
     cout << "Corey Gray: 20" << endl;
 
+    cout << "Jake Conner: 20/20" << endl;
+
     return 0;
 }
