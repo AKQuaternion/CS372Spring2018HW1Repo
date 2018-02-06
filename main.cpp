@@ -19,6 +19,8 @@ int main() {
 	cout << "Hi everyone! I'm Tristan Van Cise and it would be awesome if I could get a " << --plzGiveMeThisGrade << "/20 on this assignment" << endl;
 
     cout << "\nWilliam " << "Horn " << "would " << "like " << "a " << " 20 " << "/" << " 20 " << "plz." << endl;
+	
+    cout << "Cameron K. Titus here, a 20/20 would be very nice thank you" << endl;
 
     return 0;
 }
