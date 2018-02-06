@@ -22,5 +22,7 @@ int main() {
 	
     cout << "Cameron K. Titus here, a 20/20 would be very nice thank you" << endl;
 
+    cout << "Corey Gray: 20" << endl;
+
     return 0;
 }
