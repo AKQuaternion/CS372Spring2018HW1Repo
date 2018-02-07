@@ -47,5 +47,7 @@ int main() {
 	cout << "Jacob Butle: Score 20/20" << endl;
 
 	cout << "Chris Bailey: 20/20" << endl;
+	
+	cout << "Jason Hsi: 20/20" << endl;
     return 0;
 }
