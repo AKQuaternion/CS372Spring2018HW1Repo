@@ -41,6 +41,8 @@ int main() {
 	cout << "Samuel J Grenon: 20/20" << endl;
 	
 	cout << "Todd M Vorisek: 20/20" << endl;
+	
+	cout<< "Paul Huske: 20/20"<< endl;
 
     return 0;
 }
