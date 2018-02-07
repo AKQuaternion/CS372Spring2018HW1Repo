@@ -26,6 +26,8 @@ int main() {
 
     cout << "\nWilliam " << "Horn " << "would " << "like " << "a " << " 20 " << "/" << " 20 " << "plz." << endl;
 
+    cout << "Hal DiMarchi wants a 25/20, but would also accept a 20/20, thanks." << endl;
+
     cout << "Cameron K. Titus here, a 20/20 would be very nice thank you" << endl;
 
     cout << "Corey Gray: 20" << endl;
@@ -33,9 +35,9 @@ int main() {
     cout << "Jake Conner: 20/20" << endl;
 
 	cout << "Duane Shaffer: 20/20" << endl;
-	
+
 	cout << "Tyler J Roberts: 20/20" << endl;
-	
+
 	cout << "Samuel J Grenon: 20/20" << endl;
 
     return 0;
