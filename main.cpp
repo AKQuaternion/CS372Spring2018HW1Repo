@@ -43,6 +43,13 @@ int main() {
 	cout << "Todd M Vorisek: 20/20" << endl;
     
     cout << "Brandon N. Abbott would love to get a 24/20 on this assignment"<<endl;
+	
+	cout << "Paul Huske: 20/20" << endl;
 
+	cout << "Jacob Butle: Score 20/20" << endl;
+
+	cout << "Chris Bailey: 20/20" << endl;
+	
+	cout << "Jason Hsi: 20/20" << endl;
     return 0;
 }
