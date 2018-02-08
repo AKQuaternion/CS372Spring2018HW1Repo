@@ -51,6 +51,8 @@ int main() {
 	cout << "Chris Bailey: 20/20" << endl;
 	
 	cout << "Jason Hsi: 20/20" << endl;
+    
+    cout << "Thatcher Lane: 20/20 please" << endl;
 
 	cout << "Jesse Keller would like a 21/20 on this assignment." << endl;
 	cout<< "If thats impossible, give the extra point to charity or something." << endl;
