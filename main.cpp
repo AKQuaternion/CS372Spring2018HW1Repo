@@ -79,5 +79,8 @@ int main() {
 	cout<< "If thats impossible, give the extra point to charity or something." << endl;
 	
 	cout<<"Alan Carvajal 20/20 \n";
+	
+	unsigned int aGrade = 20;
+	cout << "Yes, Curtis Fortenberry would like " << 2*aGrade << " if possible, I'll need those extra points at some point probably.\n";
     return 0;
 }
