@@ -82,5 +82,7 @@ int main() {
 	
 	unsigned int aGrade = 20;
 	cout << "Yes, Curtis Fortenberry would like " << 2*aGrade << " if possible, I'll need those extra points at some point probably.\n";
+	
+	cout<<"\nDaniel Lind would like a ln(e^20)/20 plz." << endl;
     return 0;
 }
