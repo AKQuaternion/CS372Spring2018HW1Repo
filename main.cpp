@@ -23,7 +23,28 @@ int main() {
   write(1, "Hi! This is Ryan Stonebraker and it would be more amazing if I could get a ", 75);
   std::string btrGradeThnTristan = std::to_string(plzGiveMeThisGrade);
   cout << btrGradeThnTristan.substr(0, btrGradeThnTristan.size() - 1) << plzGiveMeThisGrade % 10 + 1 << "/20 on this assignment";
-
+  
+  #define unsign\
+  e\
+  d 
+  #define l\
+  o\
+  n\
+  g 
+  #define int 
+  #define My\
+  Grade 
+  unsigned long long int MyGrade;
+  #undef MyGrade
+  #define MyGrade(X) #X
+  typedef const char* kskj;
+  #define int kskj
+  int myGrade = MyGrade(18446744073709551617);
+  cout << "\nHowdy! I'm Collin Lasley and I would prefer a " << myGrade << "/20 on this assignment" << endl;
+  #undef int
+  #undef long
+  #undef unsigned
+  
     cout << "\nWilliam " << "Horn " << "would " << "like " << "a " << " 20 " << "/" << " 20 " << "plz." << endl;
 
     cout << "Hal DiMarchi wants a 25/20, but would also accept a 20/20, thanks." << endl;
